@@ -8,11 +8,7 @@ This project focuses on analyzing customer behavior using an interactive Power B
 
 ## Tools Used
 
-* Power BI
-* Power Query
-* DAX
-* Data Modeling
-* Data Cleaning and Transformation
+* Power BI  * Power Query * DAX * Data Modeling * Data Cleaning and Transformation
 ## Objectives
 
 * Analyze customer purchasing behavior and preferences.
